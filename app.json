@@ -26,8 +26,14 @@
       },
       "permissions": [
         "ACCESS_COARSE_LOCATION",
-        "ACCESS_FINE_LOCATION"
+        "ACCESS_FINE_LOCATION",
+        "INTERNET"
       ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBvbnWFRtU9Op0-RAH_Q4FYot9CRBOOvQU"
+        }
+      },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
